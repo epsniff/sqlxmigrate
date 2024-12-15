@@ -1,4 +1,4 @@
-module github.com/geeks-accelerator/sqlxmigrate
+module github.com/epsniff/sqlxmigrate
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1
